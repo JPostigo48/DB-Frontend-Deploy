@@ -1,13 +1,13 @@
 {
   "name": "frontend",
-  "homepage": "http://jpostigo48.github.io/db-frontend-deploy",
+  "homepage": "https://jpostigo48.github.io/DB-Frontend-Deploy/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
     "@testing-library/user-event": "^13.5.0",
-    "gh-pages": "^3.2.3",
+    "gh-pages": "^2.0.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-router-dom": "^6.2.1",
